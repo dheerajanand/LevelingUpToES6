@@ -27,6 +27,7 @@ function setConfig(isOn, amount) {
 }
 setConfig(true, 10);
 
+
 // ES6
 var configES6 = {};
 function setConfigES6({ isOn, amount }) {
