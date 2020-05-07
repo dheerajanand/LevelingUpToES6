@@ -1,5 +1,7 @@
 # Leveling Up To ES6
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/81512712-378a-43c6-8b6c-f5ade92f2bb7/deploy-status)](https://app.netlify.com/sites/levelinguptoes6/deploys)
+
 Course reference:
 https://www.udemy.com/course/leveling-up-to-es6/
 
